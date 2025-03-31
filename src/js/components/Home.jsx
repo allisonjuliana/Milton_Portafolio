@@ -22,6 +22,7 @@ const Home = () => {
 				love!
 			</p>
 		</div>
+		
 	);
 };
 
